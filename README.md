@@ -1,4 +1,4 @@
-# first-generics
+# first-go-generics
 
 ### WHAT
 - Implement generic function along with 2 non-generic functions.
